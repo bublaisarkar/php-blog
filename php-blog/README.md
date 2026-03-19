@@ -1,10 +1,6 @@
-# Blog PHP & MySQL database
 
 ## PHP Blogging Website
-
-version: 1.0.0
-
-## TECHNOLOGIES
+## TECHSTACK
 
 1. PHP
 1. HTML & CSS
